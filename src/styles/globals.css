@@ -3,13 +3,13 @@
 @tailwind utilities;
 
 :root {
-  --color-primary: #292524;
-  --color-secondary: #16a34a;
-  --color-accent: #86efac;
+  --color-primary: #1e293b;
+  --color-secondary: #6366f1;
+  --color-accent: #a5b4fc;
   --color-bg: #ffffff;
-  --color-text: #292524;
-  --color-card: #f0fdf4;
-  --color-card-text: #292524;
+  --color-text: #1e293b;
+  --color-card: #f8fafc;
+  --color-card-text: #1e293b;
   --color-muted: #9ca3af;
   --color-border: rgba(0,0,0,0.08);
   --font-heading: Playfair Display;
