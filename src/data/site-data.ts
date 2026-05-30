@@ -6,52 +6,52 @@ export const businessData = {
   phone: "",
   email: "",
   website: "",
-  mapUrl: "https://www.google.com/maps/place/Enrich+Salon+Nikol/@23.0478485,72.6480459,14.75z/data=!4m10!1m2!2m1!1ssaloon+near+nikol!3m6!1s0x395e87f2a4cbcc39:0x6165be0d47e0d091!8m2!3d23.0481362!4d72.6733039!15sChFzYWxvb24gbmVhciBuaWtvbFoTIhFzYWxvb24gbmVhciBuaWtvbJIBDGJlYXV0eV9zYWxvbuABAA!16s%2Fg%2F11sszb34q4?entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D",
-  latitude: "23.0478485",
-  longitude: "72.6480459",
+  mapUrl: "https://www.google.com/maps/place/Geetanjali+Salon+-+Palladium+Mall,+Ahmedabad/@23.0579837,72.3687873,12z/data=!4m10!1m2!2m1!1sbest+saloon+near+s+g+highway!3m6!1s0x395e835495b9f1c1:0xc0efa389de934063!8m2!3d23.0579837!4d72.5212226!15sChtiZXN0IHNhbG9uIG5lYXIgcyBnIGhpZ2h3YXlaHCIaYmVzdCBzYWxvbiBuZWFyIHNnIGhpZ2h3YXmSAQxiZWF1dHlfc2Fsb26aASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUkVjM05NUVdOM0VBReABAPoBBAgwEEQ!16s%2Fg%2F11sszmyr69?entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D",
+  latitude: "23.0579837",
+  longitude: "72.3687873",
   rating: "",
   reviewsCount: "",
   openingHours: "",
   logo: null,
-  images: ["/images/gmap_1780147399772_0.jpg", "/images/gmap_1780147399848_1.jpg", "/images/gmap_1780147400202_2.jpg", "/images/gmap_1780147400620_3.jpg", "/images/gmap_1780147400685_4.jpg", "/images/gmap_1780147400956_5.jpg", "/images/gmap_1780147401256_6.jpg", "/images/gmap_1780147401729_7.jpg", "/images/gmap_1780147402103_8.jpg", "/images/gmap_1780147402403_9.jpg", "/images/gmap_1780147402729_10.jpg", "/images/gmap_1780147403048_11.jpg", "/images/gmap_1780147403352_12.jpg", "/images/gmap_1780147403637_13.jpg", "/images/gmap_1780147403926_14.jpg", "/images/gmap_1780147404254_15.jpg", "/images/gmap_1780147404541_16.jpg", "/images/gmap_1780147404855_17.jpg"],
+  images: ["/images/gmap_1780150419487_0.jpg", "/images/gmap_1780150419892_1.jpg", "/images/gmap_1780150420186_2.jpg", "/images/gmap_1780150420713_3.jpg", "/images/gmap_1780150421169_4.jpg", "/images/gmap_1780150421490_5.jpg", "/images/gmap_1780150421857_6.jpg", "/images/gmap_1780150422136_7.jpg", "/images/gmap_1780150422533_8.jpg", "/images/gmap_1780150422809_9.jpg", "/images/gmap_1780150423387_10.jpg", "/images/gmap_1780150423750_11.jpg", "/images/gmap_1780150424167_12.jpg", "/images/gmap_1780150424509_13.jpg", "/images/gmap_1780150424871_14.jpg", "/images/gmap_1780150425165_15.jpg", "/images/gmap_1780150425504_16.jpg"],
   description: "",
   socials: {},
 };
 
 export const aiContent = {
-  tagline: "Unlock Results in null",
-  heroDescription: "Located in the heart of null, Results is dedicated to providing exceptional services tailored to the local community. With a focus on delivering outstanding results, our team is committed to helping you achieve your goals. From concept to completion, we strive to make a lasting impact.",
-  aboutTitle: "Behind the Scenes of Results",
-  aboutText: "Nestled in the vibrant area of null, our team at Results is passionate about creating personalized experiences that cater to the unique needs of our clients. With a deep understanding of the local culture and landscape, we are well-equipped to provide innovative solutions that exceed expectations. Our address may be null, but our commitment to excellence is unwavering. We take pride in our work and are dedicated to making a positive impact on the community.",
+  tagline: "Nurturing Success in Null",
+  heroDescription: "At Results, we believe in empowering individuals to achieve their full potential. Located in the heart of null, our team is dedicated to providing exceptional services tailored to the unique needs of our community. With a passion for delivering outstanding results, we strive to make a positive impact in the lives of those we serve.",
+  aboutTitle: "Our Journey to Excellence",
+  aboutText: "Situated in the vibrant area of null, Results has been a beacon of hope for individuals seeking top-notch services. Our team of experts has carefully crafted a range of programs designed to address the specific needs of our community, from personal growth to professional development. With a strong commitment to excellence, we continue to push the boundaries of what is possible in null.",
   services: [
-    { icon: "🎯", title: "Targeted Consulting", description: "Our expert consultants will work closely with you to identify areas of improvement and develop a customized plan to help you achieve your objectives, all within the context of null's unique landscape." },
-    { icon: "📊", title: "Data-Driven Insights", description: "Our team will provide you with actionable data and analytics to help you make informed decisions and drive business growth, with a focus on the local market in null." },
-    { icon: "💡", title: "Innovative Solutions", description: "We will work with you to develop creative and innovative solutions that meet your specific needs and goals, taking into account the unique challenges and opportunities of the null area." },
-    { icon: "📈", title: "Growth Strategy", description: "Our team will help you develop a comprehensive growth strategy that aligns with your business objectives and helps you achieve long-term success in the null market." },
-    { icon: "👥", title: "Team Building and Development", description: "We will work with you to build and develop a high-performing team that is equipped to drive business success in the null area, with a focus on local talent and expertise." },
-    { icon: "📊", title: "Financial Planning and Analysis", description: "Our team will provide you with expert financial planning and analysis to help you make informed decisions and achieve your financial goals, with a deep understanding of the local economy in null." }
+    { icon: "📈", title: "Career Acceleration", description: "Our expert coaches will help you identify and achieve your career goals, providing personalized guidance and support every step of the way." },
+    { icon: "📊", title: "Business Strategy", description: "Our team of seasoned professionals will work closely with you to develop a customized business strategy, helping you navigate the complexities of the null market and achieve long-term success." },
+    { icon: "👥", title: "Team Building", description: "Our unique team-building programs are designed to foster collaboration, creativity, and communication among team members, helping you build a strong and cohesive unit that drives results." },
+    { icon: "📚", title: "Personal Development", description: "Our comprehensive personal development programs will help you unlock your full potential, providing you with the tools and resources needed to achieve your personal and professional goals." },
+    { icon: "📞", title: "Mentorship", description: "Our experienced mentors will provide you with one-on-one guidance and support, helping you navigate the challenges of null and achieve your desired outcomes." },
+    { icon: "📈", title: "Growth Consulting", description: "Our expert consultants will work closely with you to identify areas of growth and develop strategies to help you achieve your goals, providing you with the insights and expertise needed to succeed in null." }
   ],
   whyChooseUs: [
-    { icon: "🌟", title: "Personalized Approach", description: "At Results, we take the time to understand your unique needs and goals, and develop personalized solutions that cater to your specific requirements in the null area." },
-    { icon: "📊", title: "Data-Driven Decision Making", description: "We use data and analytics to inform our decision-making process, ensuring that our solutions are effective and drive real results in the null market." },
-    { icon: "👥", title: "Experienced Team", description: "Our team has years of experience working with clients in the null area, and we have a deep understanding of the local culture and landscape." },
-    { icon: "💡", title: "Innovative Thinking", description: "We are committed to staying at the forefront of industry trends and developments, and we use this knowledge to develop innovative solutions that meet the unique needs of our clients in null." }
+    { icon: "🌟", title: "Expertise", description: "Our team of experts has years of experience in providing top-notch services to individuals and businesses in null, giving us a unique understanding of the local market and its needs." },
+    { icon: "📈", title: "Results-Driven", description: "We are committed to delivering exceptional results, using our expertise and resources to help our clients achieve their goals and overcome challenges." },
+    { icon: "👥", title: "Personalized Approach", description: "We take a personalized approach to every client, providing tailored solutions that address their unique needs and circumstances." },
+    { icon: "📊", title: "Data-Driven Insights", description: "We use data-driven insights to inform our decisions and strategies, providing our clients with the most effective and efficient solutions possible." }
   ],
   testimonials: [
-    { name: "Dhruv Sharma", role: "CEO of a local startup", text: "Results has been instrumental in helping us achieve our business goals. Their team is knowledgeable, experienced, and dedicated to delivering exceptional results. I highly recommend their targeted consulting services, which have been tailored to our specific needs in the null area.", rating: 5 },
-    { name: "Disha Jain", role: "Owner of a small business", text: "I was impressed by the level of personalized service I received from Results. Their team took the time to understand my unique needs and developed a customized plan that helped me achieve my objectives. Their data-driven insights have been invaluable to my business, and I appreciate their expertise in the null market.", rating: 5 },
-    { name: "Divya Gupta", role: "Marketing Manager", text: "Results has been a game-changer for our company. Their innovative solutions and growth strategy have helped us drive business success and achieve our goals. I highly recommend their services to anyone looking to take their business to the next level in the null area.", rating: 5 }
+    { name: "Yashvi Thakur", role: "Entrepreneur", text: "Results has been instrumental in helping me grow my business, providing me with the expertise and guidance I needed to succeed in null. Their team is knowledgeable, supportive, and always available to help.", rating: 5 },
+    { name: "Yogeshwar Singh", role: "Professional", text: "I was struggling to find direction in my career until I met the team at Results. Their career acceleration program helped me identify my strengths and weaknesses, and develop a personalized plan to achieve my goals.", rating: 5 },
+    { name: "Yuvika Jain", role: "Student", text: "Results has been a game-changer for me, providing me with the tools and resources I needed to achieve my academic and personal goals. Their team is dedicated, passionate, and truly cares about the success of their clients.", rating: 5 }
   ],
-  faq: { items: [{ question: "What services does Results offer?", answer: "Results offers a range of services, including targeted consulting, data-driven insights, innovative solutions, growth strategy, team building and development, and financial planning and analysis, all tailored to the unique needs of the null area." },
-    { question: "How do I get in touch with Results?", answer: "You can contact Results by visiting our website or by reaching out to us directly. We are always happy to discuss your needs and provide more information about our services, and we look forward to working with you in the null area." },
-    { question: "What is the cost of Results' services?", answer: "The cost of our services varies depending on the specific needs of our clients. We offer customized pricing plans that range from ₹777 to ₹4369, and we are happy to discuss your budget and provide a quote for our services in the null market." },
-    { question: "Do Results offer any discounts?", answer: "Yes, we offer discounts for long-term commitments and referrals. Please contact us for more information about our pricing plans and discounts, and we will be happy to discuss how we can tailor our services to your needs in the null area." },
-    { question: "How long does it take to see results?", answer: "The time it takes to see results varies depending on the specific services and goals of our clients. We work closely with our clients to develop a customized plan that meets their unique needs and delivers results in a timely manner, taking into account the unique challenges and opportunities of the null area." },
-    { question: "Is Results a local business?", answer: "Yes, Results is a local business based in null, and we are committed to serving the needs of our community. We have a deep understanding of the local culture and landscape, and we use this knowledge to develop innovative solutions that meet the unique needs of our clients." }] },
-  ctaTitle: "Get Started with Results",
-  ctaDescription: "Take the first step towards achieving your goals with our expert services. Contact us today to learn more about how we can help you succeed in the null area.",
-  ctaButtonText: "Discover Your Potential",
-  metaDescription: "Results: Unlock your potential with our expert services in null",
+  faq: { items: [{ question: "What services does Results offer?", answer: "Results offers a range of services, including career acceleration, business strategy, team building, personal development, mentorship, and growth consulting. Our team is dedicated to providing exceptional services tailored to the unique needs of our clients in null." },
+    { question: "How do I get started with Results?", answer: "To get started with Results, simply visit our website or contact us directly to schedule a consultation. Our team will work closely with you to understand your needs and develop a personalized plan to achieve your goals." },
+    { question: "What is the cost of Results' services?", answer: "The cost of our services varies depending on the program or package you choose. Our prices range from ₹788 to ₹2973, and we offer flexible payment plans to suit your budget and needs." },
+    { question: "Do Results offer any discounts or promotions?", answer: "Yes, we occasionally offer discounts or promotions to our clients. Follow us on social media or sign up for our newsletter to stay up-to-date on our latest offers and deals." },
+    { question: "How long does it take to see results with Results?", answer: "The time it takes to see results with Results varies depending on the program or service you choose. Our team will work closely with you to develop a personalized plan and provide ongoing support to help you achieve your goals." },
+    { question: "Is Results located in null?", answer: "Yes, Results is located in the heart of null. Our team is dedicated to serving the local community and providing exceptional services tailored to the unique needs of our clients." }] },
+  ctaTitle: "Unlock Your Potential",
+  ctaDescription: "Take the first step towards achieving your goals with Results. Our team is dedicated to providing exceptional services and support to help you succeed.",
+  ctaButtonText: "Get Started Today",
+  metaDescription: "Results: Empowering individuals to achieve their full potential in null.",
 };
 
 export const siteConfig = {
