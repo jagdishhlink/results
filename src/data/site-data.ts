@@ -6,52 +6,51 @@ export const businessData = {
   phone: "",
   email: "",
   website: "",
-  mapUrl: "https://www.google.com/maps/place/Umiya+Electronics+-+Home+Appliances+Nava+Naroda+-+Naroda+Ahmedabad/@23.0762261,72.5984803,13z/data=!4m10!1m2!2m1!1sUmiya+Electronics+-+Home+Appliances+Nava+Naroda+-+Naroda+Ahmedabad!3m6!1s0x395e87ab3662cf43:0xaa4477129537c9e9!8m2!3d23.0701081!4d72.6722085!15sCkJVbWl5YSBFbGVjdHJvbmljcyAtIEhvbWUgQXBwbGlhbmNlcyBOYXZhIE5hcm9kYSAtIE5hcm9kYSBBaG1lZGFiYWRaQCI-dW1peWEgZWxlY3Ryb25pY3MgaG9tZSBhcHBsaWFuY2VzIG5hdmEgbmFyb2RhIG5hcm9kYSBhaG1lZGFiYWSSARNlbGVjdHJvbmljc19jb21wYW554AEA!16s%2Fg%2F11vqhpgmm6?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D",
-  latitude: "23.0762261",
-  longitude: "72.5984803",
+  mapUrl: "https://www.google.com/maps/place/Swati+Electronics/@23.0358441,72.631341,14z/data=!4m10!1m2!2m1!1sSwati+Electronics!3m6!1s0x395e8727a9b6b5cb:0x469410ff17196354!8m2!3d23.0574142!4d72.6650931!15sChFTd2F0aSBFbGVjdHJvbmljc1oTIhFzd2F0aSBlbGVjdHJvbmljc5IBEWVsZWN0cm9uaWNzX3N0b3Jl4AEA!16s%2Fg%2F11cncbmxcf?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D",
+  latitude: "23.0358441",
+  longitude: "72.631341",
   rating: "",
   reviewsCount: "",
   openingHours: "",
   logo: null,
-  images: ["/images/gmap_1782028089929_0.jpg", "/images/gmap_1782028090233_1.jpg", "/images/gmap_1782028090749_2.jpg", "/images/gmap_1782028091050_3.jpg", "/images/gmap_1782028091611_4.jpg", "/images/gmap_1782028091961_5.jpg"],
+  images: ["/images/gmap_1782028300956_0.jpg", "/images/gmap_1782028301285_1.jpg"],
   description: "",
-  socials: {},
+  socials: {"instagram":"https://www.instagram.com/swati_electronics?igsh=NnllODV5MWU5bTcw"},
 };
 
 export const aiContent = {
-  tagline: "Achieving Success at Results",
-  heroDescription: "Located in the heart of null, Results is a premier local business dedicated to helping you achieve your goals. With a focus on exceptional service and unparalleled expertise, we strive to deliver outstanding results. Our team is committed to providing personalized solutions tailored to your unique needs.",
-  aboutTitle: "Unlocking Potential at Results",
-  aboutText: "At Results, we understand the importance of community and are proud to be based in the null area. Our team is passionate about helping individuals and businesses thrive, and we believe that our location provides the perfect blend of opportunity and support. With a deep understanding of the local landscape, we are well-equipped to provide guidance and expertise to help you navigate the challenges and opportunities that come with living and working in this vibrant region.",
+  tagline: "Results in null, India",
+  heroDescription: "Located in the heart of null, Results is a local business dedicated to providing exceptional services to the community. With a strong focus on quality and customer satisfaction, we strive to deliver outstanding results. Our team is committed to making a positive impact in null.",
+  aboutTitle: "Our Story at Results",
+  aboutText: "At Results, we are proud to be a part of the null community, serving the area with passion and dedication. Our address may be null, but our commitment to excellence is unwavering. We are constantly looking for ways to improve and expand our services to meet the evolving needs of our customers in null.",
   services: [
-    { icon: "📈", title: "Performance Enhancement", description: "Our team will work with you to identify areas for improvement and develop a customized plan to help you achieve your goals, all for a fee of ₹846" },
-    { icon: "📊", title: "Data Analysis", description: "We will provide you with in-depth analysis and insights to help you make informed decisions, priced at ₹1245" },
-    { icon: "📝", title: "Strategic Planning", description: "Our experts will work with you to develop a comprehensive plan to help you achieve success, available for ₹2019" },
-    { icon: "📞", title: "Consultation Services", description: "Our team is available to provide guidance and support to help you overcome challenges, with a consultation fee of ₹406" },
-    { icon: "📈", title: "Growth Optimization", description: "We will help you identify opportunities for growth and develop a plan to capitalize on them, priced at ₹2190" },
-    { icon: "📊", title: "Market Research", description: "Our team will provide you with valuable insights and data to help you make informed decisions, available for ₹2861" }
+    { icon: "📊", title: "null Area Market Research", description: "Our team conducts in-depth market research to help businesses understand the null area market and make informed decisions. Price: ₹942" },
+    { icon: "📈", title: "Results-Driven Consulting", description: "Our expert consultants work closely with clients to develop customized strategies for success in null. Price: ₹1421" },
+    { icon: "📊", title: "null Community Engagement", description: "We help businesses build strong relationships with the null community through effective engagement strategies. Price: ₹629" },
+    { icon: "📊", title: "null Area Business Planning", description: "Our team creates comprehensive business plans tailored to the unique needs of businesses in null. Price: ₹2178" },
+    { icon: "📊", title: "null Market Analysis", description: "We provide detailed market analysis to help businesses understand the null market and make informed decisions. Price: ₹3829" },
+    { icon: "📊", title: "Results-Oriented Training", description: "Our training programs are designed to help businesses in null achieve their goals and improve performance. Price: ₹542" }
   ],
   whyChooseUs: [
-    { icon: "🔒", title: "Expertise", description: "Our team has extensive experience and knowledge in the field, ensuring that you receive the best possible guidance and support" },
-    { icon: "📈", title: "Proven Track Record", description: "We have a proven track record of delivering outstanding results and helping our clients achieve their goals" },
-    { icon: "📊", title: "Personalized Solutions", description: "We believe in providing personalized solutions tailored to each client's unique needs and circumstances" },
-    { icon: "📞", title: "Exceptional Support", description: "Our team is committed to providing exceptional support and guidance to help you achieve success" }
+    { icon: "👍", title: "Local Expertise", description: "Our team has extensive knowledge of the null area, allowing us to provide tailored services that meet the unique needs of the community." },
+    { icon: "📈", title: "Results-Driven Approach", description: "We are committed to delivering exceptional results for our clients, and our approach is designed to drive success in null." },
+    { icon: "📊", title: "Community Focus", description: "At Results, we are dedicated to making a positive impact in the null community, and our services reflect this commitment." }
   ],
   testimonials: [
-    { name: "Winston Reed", role: "Entrepreneur", text: "I was blown away by the level of expertise and support provided by the team at Results. Their performance enhancement service was instrumental in helping me achieve my business goals. I highly recommend their services to anyone looking to take their business to the next level.", rating: 5 },
-    { name: "Willow Patel", role: "Small Business Owner", text: "The team at Results was incredibly helpful in providing me with the guidance and support I needed to overcome the challenges I was facing. Their data analysis service was invaluable in helping me make informed decisions and drive growth.", rating: 5 },
-    { name: "Wyatt Khan", role: "Individual Client", text: "I was impressed by the level of personalized service provided by the team at Results. Their strategic planning service was tailored to my unique needs and circumstances, and I was able to achieve my goals with their guidance and support.", rating: 5 }
+    { name: "Bhavna Rao", role: "Local Business Owner", text: "Results has been instrumental in helping my business succeed in null. Their market research services have been invaluable. I highly recommend their null Area Market Research service.", rating: 5 },
+    { name: "Brijesh Jain", role: "Entrepreneur", text: "The team at Results is passionate about delivering exceptional results, and their consulting services have made a significant impact on my business in null. I appreciate their Results-Driven Consulting service.", rating: 5 },
+    { name: "Bharat Kumar", role: "Community Leader", text: "Results has been a valuable partner in our community engagement efforts in null. Their null Community Engagement service has helped us build strong relationships with local businesses.", rating: 5 }
   ],
-  faq: { items: [{ question: "What services does Results offer?", answer: "Results offers a range of services, including performance enhancement, data analysis, strategic planning, consultation services, growth optimization, and market research. Our team is dedicated to providing personalized solutions tailored to each client's unique needs and circumstances." },
-    { question: "How much do the services at Results cost?", answer: "The cost of our services varies depending on the specific service and the needs of the client. Our fees range from ₹406 to ₹2861, and we are happy to provide a customized quote for your specific needs." },
-    { question: "What is the location of Results?", answer: "Results is located in the null area, and we are proud to be a part of this vibrant and dynamic community. Our team is committed to providing exceptional service and support to our clients, and we believe that our location provides the perfect blend of opportunity and support." },
-    { question: "How do I get in touch with the team at Results?", answer: "You can get in touch with the team at Results by visiting our website or by contacting us directly. We are happy to provide guidance and support to help you achieve your goals, and we look forward to hearing from you." },
-    { question: "What is the mission of Results?", answer: "The mission of Results is to provide exceptional service and support to our clients, helping them to achieve their goals and overcome challenges. We are committed to delivering outstanding results and making a positive impact in the null community." },
-    { question: "How does Results measure success?", answer: "At Results, we measure success by the outcomes and results that we deliver for our clients. We are committed to providing personalized solutions and exceptional support, and we believe that our success is directly tied to the success of our clients." }] },
-  ctaTitle: "Unlock Your Potential",
-  ctaDescription: "Take the first step towards achieving your goals with Results. Our team is dedicated to providing exceptional service and support to help you succeed.",
-  ctaButtonText: "Get Started Today",
-  metaDescription: "Results: Expert guidance and support to help you achieve your goals",
+  faq: { items: [{ question: "What services does Results offer in null?", answer: "Results offers a range of services, including null Area Market Research, Results-Driven Consulting, null Community Engagement, null Area Business Planning, null Market Analysis, and Results-Oriented Training." },
+    { question: "How can I get in touch with Results in null?", answer: "You can contact us through our website or by visiting our office in null. We look forward to hearing from you and discussing how we can help your business succeed." },
+    { question: "What is the pricing for Results' services in null?", answer: "Our pricing varies depending on the service, but we offer competitive rates for all our services. Please contact us for a custom quote for your business in null." },
+    { question: "Does Results have experience working with businesses in null?", answer: "Yes, our team has extensive experience working with businesses in null, and we are committed to delivering exceptional results for our clients in the area." },
+    { question: "Can Results help my business with market research in null?", answer: "Yes, our null Area Market Research service is designed to help businesses understand the null market and make informed decisions. We use a combination of qualitative and quantitative research methods to provide actionable insights." },
+    { question: "How does Results measure the success of its services in null?", answer: "We measure the success of our services through a combination of metrics, including customer satisfaction, revenue growth, and community engagement. We are committed to delivering exceptional results for our clients in null." }] },
+  ctaTitle: "Get Started with Results",
+  ctaDescription: "Take the first step towards achieving your business goals in null. Contact us today to learn more about our services and how we can help you succeed.",
+  ctaButtonText: "Discover Results",
+  metaDescription: "Results in null, India - Local business services",
 };
 
 export const siteConfig = {
