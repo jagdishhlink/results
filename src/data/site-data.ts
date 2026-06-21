@@ -6,9 +6,9 @@ export const businessData = {
   phone: "",
   email: "",
   website: "",
-  mapUrl: "https://www.google.com/maps/place/9+Education/@23.0623831,72.6525214,15z/data=!4m10!1m2!2m1!1sclasses+near+me!3m6!1s0x395e87903abb1a01:0xac55795a51aff7f1!8m2!3d23.0623831!4d72.6715758!15sCg9jbGFzc2VzIG5lYXIgbWUiA5ABAVoRIg9jbGFzc2VzIG5lYXIgbWWSARBlZHVjYXRpb25fY2VudGVymgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU53YmpSRFVUVm5SUkFC4AEA-gEECAAQGA!16s%2Fg%2F11s_b6y5fq?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D",
-  latitude: "23.0623831",
-  longitude: "72.6525214",
+  mapUrl: "https://www.google.com/maps/place/ABACUS+CLASSES+NAVA+NARODA+HARIDARSHAN+CROSS+ROAD/@23.0624734,72.6560301,15z/data=!4m10!1m2!2m1!1sclasses+near+me!3m6!1s0x395e871b9e2897bd:0x47e6b5c9b8ed2997!8m2!3d23.0670595!4d72.6764412!15sCg9jbGFzc2VzIG5lYXIgbWUiA5ABAVoRIg9jbGFzc2VzIG5lYXIgbWWSARdlZHVjYXRpb25hbF9pbnN0aXR1dGlvbpoBRENpOURRVWxSUVVOdlpFTm9kSGxqUmpsdlQyeFdVVTVWWkhCVFJFNHdXREZ2ZWxkR1RraE5NRGxJVlROc1dGZFhZeEFC4AEA-gEECAAQOQ!16s%2Fg%2F11frtdqs77?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D",
+  latitude: "23.0624734",
+  longitude: "72.6560301",
   rating: "",
   reviewsCount: "",
   openingHours: "",
@@ -19,38 +19,39 @@ export const businessData = {
 };
 
 export const aiContent = {
-  tagline: "Nurturing success in null",
-  heroDescription: "Welcome to Results, where we strive to deliver outstanding outcomes in the heart of null. Our team is dedicated to providing exceptional services that cater to the unique needs of our community. With a focus on excellence, we aim to make a positive impact in null.",
-  aboutTitle: "Our Story Unfolds",
-  aboutText: "Located in the vibrant area of null, Results is a local business that is deeply rooted in the community. Our address may be null, but our passion for delivering results is undeniable. We take pride in our ability to understand the nuances of the local market and provide tailored solutions that meet the needs of our clients.",
+  tagline: "Transforming null with Results",
+  heroDescription: "Located in the heart of null, Results is dedicated to providing exceptional services tailored to the local community. With a focus on delivering outstanding results, we strive to exceed your expectations. Our team is committed to making a positive impact in null.",
+  aboutTitle: "The Results Story Unfolds",
+  aboutText: "At Results, we take pride in our null location, where we have established a strong presence. Our team is passionate about understanding the unique needs of the local community and crafting solutions that cater to them. With a deep understanding of the null area, we are well-equipped to provide personalized services that make a difference. Our mission is to become an integral part of the null community, fostering growth and development.",
   services: [
-    { icon: "📈", title: "Null Market Analysis", description: "Our experts will help you navigate the complexities of the null market, providing valuable insights to drive your business forward. Prices start at ₹845" },
-    { icon: "📊", title: "Customized Solutions", description: "We offer bespoke solutions that cater to the unique needs of your business, ensuring that you receive the best possible outcomes. Pricing begins at ₹1199" },
-    { icon: "📢", title: "Null Community Engagement", description: "Our team will help you build strong relationships with the local community, fostering a positive reputation for your business. Services start at ₹415" },
-    { icon: "📈", title: "Growth Strategy Development", description: "We will work with you to create a tailored growth strategy that drives results and helps your business thrive in the null market. Prices start at ₹2345" },
-    { icon: "📊", title: "Performance Monitoring", description: "Our experts will help you track and analyze your business's performance, providing valuable insights to inform your decision-making. Pricing begins at ₹1799" },
-    { icon: "📢", title: "Null Market Research", description: "We conduct thorough research to provide you with a deeper understanding of the null market, helping you make informed decisions about your business. Services start at ₹2999" }
+    { icon: "📊", title: "null Market Research", description: "Conducting in-depth market research to help businesses understand the null market and make informed decisions" },
+    { icon: "📈", title: "Null Area Expansion", description: "Providing strategic guidance for businesses looking to expand in the null area, leveraging our local expertise" },
+    { icon: "📁", title: "Results Consulting", description: "Offering consulting services to help businesses in null optimize their operations and improve performance" },
+    { icon: "📊", title: "null Data Analysis", description: "Analyzing data to provide actionable insights for businesses in null, enabling them to make data-driven decisions" },
+    { icon: "👥", title: "null Community Engagement", description: "Developing community engagement strategies for businesses in null, fostering positive relationships with local stakeholders" },
+    { icon: "💡", title: "Innovation Workshops", description: "Conducting innovation workshops in null, helping businesses generate new ideas and stay ahead of the competition" }
   ],
   whyChooseUs: [
-    { icon: "🌟", title: "Unique Approach", description: "At Results, we take a tailored approach to every client, ensuring that our services meet their specific needs and goals." },
-    { icon: "📈", title: "Proven Track Record", description: "Our team has a proven track record of delivering outstanding results in the null market, making us the go-to choice for local businesses." },
-    { icon: "📢", title: "Community Focus", description: "We are deeply committed to the null community, and our services reflect this, ensuring that our clients receive the best possible outcomes." }
+    { icon: "🏆", title: "Local Expertise", description: "Our team has an in-depth understanding of the null area, allowing us to provide tailored solutions that meet the unique needs of the local community" },
+    { icon: "💼", title: "Personalized Services", description: "We take the time to understand the specific needs of each business, providing personalized services that cater to their goals and objectives" },
+    { icon: "📈", title: "Proven Track Record", description: "Our team has a proven track record of delivering exceptional results in null, with a strong portfolio of successful projects and happy clients" },
+    { icon: "👥", title: "Community Focus", description: "We are committed to making a positive impact in the null community, fostering growth and development through our services and initiatives" }
   ],
   testimonials: [
-    { name: "Gautam Rao", role: "Local Entrepreneur", text: "Results has been instrumental in helping me grow my business in the null market. Their customized solutions have been invaluable to my success.", rating: 5 },
-    { name: "Gitanjali Deshpande", role: "Small Business Owner", text: "The team at Results is exceptional. Their null market analysis service has given me a deeper understanding of the local market, and I've seen significant improvements in my business as a result.", rating: 5 },
-    { name: "Gurpreet Singh", role: "Business Consultant", text: "I've worked with Results on several projects, and their growth strategy development service has been outstanding. They truly understand the nuances of the null market.", rating: 5 }
+    { name: "Raghav Mehta", role: "CEO of a local startup", text: "Results has been instrumental in helping us understand the null market and develop a successful expansion strategy. Their team is knowledgeable, professional, and dedicated to delivering exceptional results.", rating: 5 },
+    { name: "Ramesh Gupta", role: "Owner of a small business", text: "I was impressed by the personalized service provided by Results. Their consulting services helped me optimize my operations and improve performance, and I've seen a significant increase in revenue since working with them.", rating: 5 },
+    { name: "Renuka Singh", role: "Marketing Manager", text: "The innovation workshops conducted by Results were incredibly valuable for our team. They helped us generate new ideas and stay ahead of the competition, and we've seen a significant improvement in our marketing efforts.", rating: 5 }
   ],
-  faq: { items: [{ question: "What services does Results offer?", answer: "Results offers a range of services, including null market analysis, customized solutions, null community engagement, growth strategy development, performance monitoring, and null market research." },
-    { question: "How do I get started with Results?", answer: "To get started with Results, simply contact our team to discuss your business needs and goals. We will work with you to create a tailored plan that meets your requirements." },
-    { question: "What is the pricing for Results' services?", answer: "Pricing for Results' services varies depending on the specific service and package chosen. Our prices start at ₹415 and go up to ₹4149, depending on the complexity and scope of the project." },
-    { question: "Does Results have experience working in the null market?", answer: "Yes, Results has extensive experience working in the null market. Our team has a deep understanding of the local community and market trends, ensuring that our clients receive the best possible outcomes." },
-    { question: "Can I customize the services offered by Results?", answer: "Yes, Results offers customized solutions that cater to the unique needs of your business. Our team will work with you to create a tailored plan that meets your specific requirements and goals." },
-    { question: "How do I contact Results?", answer: "You can contact Results by visiting our website or by reaching out to our team directly. We are always happy to discuss your business needs and provide more information about our services." }] },
-  ctaTitle: "Unlock Your Business Potential",
-  ctaDescription: "Discover how Results can help you achieve your business goals in the null market. Get in touch with us today to learn more about our services and how we can support your success.",
-  ctaButtonText: "Get Started Today",
-  metaDescription: "Results: Your partner for success in null",
+  faq: { items: [{ question: "What services does Results offer in null?", answer: "Results offers a range of services in null, including market research, expansion strategy, consulting, data analysis, community engagement, and innovation workshops. Our team is dedicated to providing personalized services that cater to the unique needs of the local community." },
+    { question: "How can I get in touch with Results?", answer: "You can get in touch with Results by visiting our website or contacting us directly. Our team is always available to answer your questions and provide more information about our services." },
+    { question: "What is the cost of Results' services?", answer: "The cost of our services varies depending on the specific needs of each business. Our pricing ranges from ₹473 to ₹4343, and we offer customized packages to fit your budget and goals." },
+    { question: "Does Results have experience working with businesses in null?", answer: "Yes, our team has extensive experience working with businesses in null. We have a deep understanding of the local market and community, and we are well-equipped to provide tailored solutions that meet the unique needs of the area." },
+    { question: "Can I schedule a consultation with Results?", answer: "Yes, you can schedule a consultation with Results by contacting us directly. Our team is always available to discuss your needs and provide more information about our services." },
+    { question: "How long does it take to see results from Results' services?", answer: "The time it takes to see results from our services varies depending on the specific needs of each business. Our team works closely with you to develop a customized strategy and provide ongoing support to ensure you achieve your goals." }] },
+  ctaTitle: "Transform Your Business with Results",
+  ctaDescription: "Get in touch with us to learn more about our services and how we can help you achieve your goals. Our team is dedicated to providing personalized support and guidance every step of the way.",
+  ctaButtonText: "Discover Results",
+  metaDescription: "Results: Transforming null with exceptional services",
 };
 
 export const siteConfig = {
