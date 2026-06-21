@@ -6,52 +6,52 @@ export const businessData = {
   phone: "",
   email: "",
   website: "",
-  mapUrl: "https://www.google.com/maps/place/Swati+Electronics/@23.0625122,72.6560301,15z/data=!4m10!1m2!2m1!1selectronic+shopes+near+me!3m6!1s0x395e8727a9b6b5cb:0x469410ff17196354!8m2!3d23.0574142!4d72.6650931!15sChdlbGVjdHJvbmljIHNob3AgbmVhciBtZSIDkAEBWhkiF2VsZWN0cm9uaWMgc2hvcCBuZWFyIG1lkgERZWxlY3Ryb25pY3Nfc3RvcmXgAQA!16s%2Fg%2F11cncbmxcf?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D",
-  latitude: "23.0625122",
-  longitude: "72.6560301",
+  mapUrl: "https://www.google.com/maps/place/Umiya+Electronics+-+Home+Appliances+Nava+Naroda+-+Naroda+Ahmedabad/@23.0762261,72.5984803,13z/data=!4m10!1m2!2m1!1sUmiya+Electronics+-+Home+Appliances+Nava+Naroda+-+Naroda+Ahmedabad!3m6!1s0x395e87ab3662cf43:0xaa4477129537c9e9!8m2!3d23.0701081!4d72.6722085!15sCkJVbWl5YSBFbGVjdHJvbmljcyAtIEhvbWUgQXBwbGlhbmNlcyBOYXZhIE5hcm9kYSAtIE5hcm9kYSBBaG1lZGFiYWRaQCI-dW1peWEgZWxlY3Ryb25pY3MgaG9tZSBhcHBsaWFuY2VzIG5hdmEgbmFyb2RhIG5hcm9kYSBhaG1lZGFiYWSSARNlbGVjdHJvbmljc19jb21wYW554AEA!16s%2Fg%2F11vqhpgmm6?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D",
+  latitude: "23.0762261",
+  longitude: "72.5984803",
   rating: "",
   reviewsCount: "",
   openingHours: "",
   logo: null,
-  images: ["/images/gmap_1782027713800_0.jpg", "/images/gmap_1782027714560_1.jpg", "/images/gmap_1782027714967_2.jpg", "/images/gmap_1782027715422_3.jpg", "/images/gmap_1782027715817_4.jpg", "/images/gmap_1782027716421_5.jpg", "/images/gmap_1782027716837_6.jpg", "/images/gmap_1782027717253_7.jpg", "/images/gmap_1782027717586_8.jpg", "/images/gmap_1782027717917_9.jpg", "/images/gmap_1782027718227_10.jpg", "/images/gmap_1782027718528_11.jpg", "/images/gmap_1782027719019_12.jpg", "/images/gmap_1782027719307_13.jpg", "/images/gmap_1782027719625_14.jpg", "/images/gmap_1782027720082_15.jpg", "/images/gmap_1782027720465_16.jpg", "/images/gmap_1782027720792_17.jpg", "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGEOFHxr34nQjFxG7bXHTgNq4unUzMGlvFuQGFP8i3Fx246pheEDIxlGRXKs6C8Nta3edny-clemeZJT_R9d-dJkdIwU9oO_oZqo7eIKRS441KbfpWKxh8_z0XT80P2bPs9piBncdcJsoUVFRpIU61WXEGWyOE4ZOFDQK71-kmat505O956Z9yFgmLVJe3_kJKd0g=w1200-h800-k-no"],
+  images: ["/images/gmap_1782028089929_0.jpg", "/images/gmap_1782028090233_1.jpg", "/images/gmap_1782028090749_2.jpg", "/images/gmap_1782028091050_3.jpg", "/images/gmap_1782028091611_4.jpg", "/images/gmap_1782028091961_5.jpg"],
   description: "",
-  socials: {"instagram":"https://www.instagram.com/swati_electronics?igsh=NnllODV5MWU5bTcw"},
+  socials: {},
 };
 
 export const aiContent = {
-  tagline: "Tailored results in null",
-  heroDescription: "Experience the best of local services with Results, situated in the heart of null. Our team is dedicated to providing exceptional support to the community. With a focus on unique solutions, we strive to deliver outstanding results.",
-  aboutTitle: "Our Story Unfolds",
-  aboutText: "Located in the vibrant area of null, Results has been serving the community with its distinctive approach. Our team is passionate about creating a positive impact in the region, fostering growth and development. With a deep understanding of local needs, we have crafted our services to cater to the specific requirements of null. Our mission is to provide exceptional support, ensuring that every individual experiences the best possible outcomes.",
+  tagline: "Achieving Success at Results",
+  heroDescription: "Located in the heart of null, Results is a premier local business dedicated to helping you achieve your goals. With a focus on exceptional service and unparalleled expertise, we strive to deliver outstanding results. Our team is committed to providing personalized solutions tailored to your unique needs.",
+  aboutTitle: "Unlocking Potential at Results",
+  aboutText: "At Results, we understand the importance of community and are proud to be based in the null area. Our team is passionate about helping individuals and businesses thrive, and we believe that our location provides the perfect blend of opportunity and support. With a deep understanding of the local landscape, we are well-equipped to provide guidance and expertise to help you navigate the challenges and opportunities that come with living and working in this vibrant region.",
   services: [
-    { icon: "💡", title: "Customized Consulting", description: "Get personalized guidance from our experts, tailored to your specific needs in null" },
-    { icon: "📊", title: "Local Market Research", description: "Gain valuable insights into the null market, helping you make informed decisions" },
-    { icon: "📈", title: "Growth Strategy Development", description: "Develop a comprehensive growth plan, optimized for the unique conditions of null" },
-    { icon: "🤝", title: "Community Engagement", description: "Foster meaningful connections with the null community, building strong relationships" },
-    { icon: "📚", title: "Knowledge Sharing", description: "Access exclusive workshops and training sessions, designed to empower individuals in null" },
-    { icon: "💻", title: "Digital Transformation", description: "Stay ahead of the curve with our cutting-edge digital solutions, tailored to the null market" }
+    { icon: "📈", title: "Performance Enhancement", description: "Our team will work with you to identify areas for improvement and develop a customized plan to help you achieve your goals, all for a fee of ₹846" },
+    { icon: "📊", title: "Data Analysis", description: "We will provide you with in-depth analysis and insights to help you make informed decisions, priced at ₹1245" },
+    { icon: "📝", title: "Strategic Planning", description: "Our experts will work with you to develop a comprehensive plan to help you achieve success, available for ₹2019" },
+    { icon: "📞", title: "Consultation Services", description: "Our team is available to provide guidance and support to help you overcome challenges, with a consultation fee of ₹406" },
+    { icon: "📈", title: "Growth Optimization", description: "We will help you identify opportunities for growth and develop a plan to capitalize on them, priced at ₹2190" },
+    { icon: "📊", title: "Market Research", description: "Our team will provide you with valuable insights and data to help you make informed decisions, available for ₹2861" }
   ],
   whyChooseUs: [
-    { icon: "🌟", title: "Unique Approach", description: "Our team takes a distinctive approach to problem-solving, ensuring innovative solutions for the null community" },
-    { icon: "📈", title: "Proven Track Record", description: "We have a history of delivering exceptional results, with a deep understanding of the null market" },
-    { icon: "🤝", title: "Community Focus", description: "Our mission is to create a positive impact in null, fostering growth and development" },
-    { icon: "💡", title: "Expert Guidance", description: "Our team of experts provides personalized guidance, helping individuals achieve their goals in null" }
+    { icon: "🔒", title: "Expertise", description: "Our team has extensive experience and knowledge in the field, ensuring that you receive the best possible guidance and support" },
+    { icon: "📈", title: "Proven Track Record", description: "We have a proven track record of delivering outstanding results and helping our clients achieve their goals" },
+    { icon: "📊", title: "Personalized Solutions", description: "We believe in providing personalized solutions tailored to each client's unique needs and circumstances" },
+    { icon: "📞", title: "Exceptional Support", description: "Our team is committed to providing exceptional support and guidance to help you achieve success" }
   ],
   testimonials: [
-    { name: "Ishan Mehta", role: "Local Entrepreneur", text: "Results has been instrumental in helping me grow my business in null. Their customized consulting services have been invaluable. I highly recommend their services to anyone looking to succeed in this market.", rating: 5 },
-    { name: "Ira Shah", role: "Community Leader", text: "The team at Results has been a pleasure to work with. Their community engagement services have helped us build strong relationships with the local community. We appreciate their dedication to null and look forward to continuing our partnership.", rating: 5 },
-    { name: "Ivy Doshi", role: "Small Business Owner", text: "I was struggling to find the right guidance for my business, but Results provided me with the perfect solution. Their growth strategy development services have been a game-changer for me, and I'm grateful for their support in null.", rating: 5 }
+    { name: "Winston Reed", role: "Entrepreneur", text: "I was blown away by the level of expertise and support provided by the team at Results. Their performance enhancement service was instrumental in helping me achieve my business goals. I highly recommend their services to anyone looking to take their business to the next level.", rating: 5 },
+    { name: "Willow Patel", role: "Small Business Owner", text: "The team at Results was incredibly helpful in providing me with the guidance and support I needed to overcome the challenges I was facing. Their data analysis service was invaluable in helping me make informed decisions and drive growth.", rating: 5 },
+    { name: "Wyatt Khan", role: "Individual Client", text: "I was impressed by the level of personalized service provided by the team at Results. Their strategic planning service was tailored to my unique needs and circumstances, and I was able to achieve my goals with their guidance and support.", rating: 5 }
   ],
-  faq: { items: [{ question: "What services does Results offer in null?", answer: "Results provides a range of services, including customized consulting, local market research, growth strategy development, community engagement, knowledge sharing, and digital transformation. Our team is dedicated to providing exceptional support to the null community." },
-    { question: "How can I get in touch with the Results team?", answer: "You can reach out to us through our website or by visiting our office in null. We're always happy to connect with you and discuss how we can support your goals." },
-    { question: "What is the cost of Results' services?", answer: "Our pricing varies depending on the specific service and the needs of our clients. We offer customized packages starting from ₹409, with premium services available for ₹3086. We're committed to providing affordable solutions that deliver exceptional value." },
-    { question: "Does Results offer any discounts or promotions?", answer: "Yes, we periodically offer special discounts and promotions for our services. Follow us on social media or sign up for our newsletter to stay informed about our latest offers and updates." },
-    { question: "How long does it take to see results from Results' services?", answer: "The timeframe for seeing results varies depending on the specific service and the goals of our clients. Our team works closely with you to develop a customized plan, ensuring that you achieve your objectives in a timely and efficient manner." },
-    { question: "Is Results a reputable company in null?", answer: "Yes, Results is a reputable company with a strong reputation in null. We're committed to delivering exceptional results and building long-term relationships with our clients and the community." }] },
+  faq: { items: [{ question: "What services does Results offer?", answer: "Results offers a range of services, including performance enhancement, data analysis, strategic planning, consultation services, growth optimization, and market research. Our team is dedicated to providing personalized solutions tailored to each client's unique needs and circumstances." },
+    { question: "How much do the services at Results cost?", answer: "The cost of our services varies depending on the specific service and the needs of the client. Our fees range from ₹406 to ₹2861, and we are happy to provide a customized quote for your specific needs." },
+    { question: "What is the location of Results?", answer: "Results is located in the null area, and we are proud to be a part of this vibrant and dynamic community. Our team is committed to providing exceptional service and support to our clients, and we believe that our location provides the perfect blend of opportunity and support." },
+    { question: "How do I get in touch with the team at Results?", answer: "You can get in touch with the team at Results by visiting our website or by contacting us directly. We are happy to provide guidance and support to help you achieve your goals, and we look forward to hearing from you." },
+    { question: "What is the mission of Results?", answer: "The mission of Results is to provide exceptional service and support to our clients, helping them to achieve their goals and overcome challenges. We are committed to delivering outstanding results and making a positive impact in the null community." },
+    { question: "How does Results measure success?", answer: "At Results, we measure success by the outcomes and results that we deliver for our clients. We are committed to providing personalized solutions and exceptional support, and we believe that our success is directly tied to the success of our clients." }] },
   ctaTitle: "Unlock Your Potential",
-  ctaDescription: "Discover how Results can help you achieve your goals in null. Get started today and experience the difference for yourself.",
-  ctaButtonText: "Explore Services",
-  metaDescription: "Results: Your partner for success in null",
+  ctaDescription: "Take the first step towards achieving your goals with Results. Our team is dedicated to providing exceptional service and support to help you succeed.",
+  ctaButtonText: "Get Started Today",
+  metaDescription: "Results: Expert guidance and support to help you achieve your goals",
 };
 
 export const siteConfig = {
